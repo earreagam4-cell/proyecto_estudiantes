@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "nombre": "Miguel",
+        "apellido": "Arreaga",
+        "email": "Erick24@gmail.com",
+        "carnet": "012345",
+        "notas": {
+            "Matematica": [
+                18.0,
+                18.0
+            ],
+            "Fisica": [
+                17.0
+            ]
+        },
+        "materias": [
+            "Fisica",
+            "Matematica"
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Erick",
+        "apellido": "Martinez",
+        "email": "ErickMI1@gmail.com",
+        "carnet": "01234567",
+        "notas": {
+            "Matematica": [
+                20.0
+            ],
+            "Quimica": [
+                10.0
+            ]
+        },
+        "materias": [
+            "Matematica",
+            "Quimica"
+        ]
+    }
+]
